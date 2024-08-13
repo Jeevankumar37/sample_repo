@@ -6,6 +6,8 @@ this is the third line to check the push command
 
 this is the fourth line
 
+this is line number 9
+
 working area`
 
 this is the tenth line 
