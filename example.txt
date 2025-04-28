@@ -2,4 +2,4 @@ this is the example file in git
 
 This is the Second lone testing the git add command
 
-this is the line which has added after git add command 
+
